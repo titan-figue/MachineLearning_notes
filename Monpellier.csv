@@ -1,0 +1,421 @@
+Observatory;Data_year;agglomeration;Zone_complementaire;Type_habitat;epoque_construction_homogene;anciennete_locataire_homogene;nombre_pieces_homogene;loyer_1_decile;loyer_1_quartile;loyer_median;loyer_3_quartile;loyer_9_decile;loyer_moyen;loyer_mensuel_1_decile;loyer_mensuel_1_quartile;loyer_mensuel_median;loyer_mensuel_3_quartile;loyer_mensuel_9_decile;moyenne_loyer_mensuel;surface_moyenne;nombre_observations;nombre_logements;methodologie_production
+B3400;2018;Agglomération de Montpellier;;;;;;8,6;10,2;12,3;14,8;17,7;11,4;400;478;600;745;960;641;56;11754;78224;Estimation directe
+B3400;2018;Agglomération de Montpellier;;;;;Maison 1-3P;8,2;8,9;11;13,7;15,4;10,8;493;590;650;800;895;691;64;140;3047;Estimation directe
+B3400;2018;Agglomération de Montpellier;;;;;Ensemble 4P+;6,8;8,4;9,8;11,1;12,2;9,5;625;750;950;1105;1300;948;100;1303;15020;Estimation directe
+B3400;2018;Agglomération de Montpellier;;;;;Maison 4P+;7,9;8,8;10;11,3;12,5;9,7;699;900;1035;1200;1332;1043;108;452;6590;Estimation directe
+B3400;2018;Agglomération de Montpellier;;;;;Appart 1P;12,5;14,3;16,4;19,4;22;16,1;347;380;410;460;500;420;26;2866;17123;Estimation directe
+B3400;2018;Agglomération de Montpellier;;;;;Appart 2P;10,3;11,9;13,1;14,8;16,3;13;454;510;560;608;660;560;43;4739;25611;Estimation directe
+B3400;2018;Agglomération de Montpellier;;;;;Appart 3P;8,3;9,5;10,8;12,1;13,2;10,6;574;627;700;780;850;708;67;2706;17424;Estimation directe
+B3400;2018;Agglomération de Montpellier;;;;;Appart 4P+;6,7;8;9,6;10,9;11,9;9,3;590;706;838;995;1150;869;93;851;8430;Estimation directe
+B3400;2018;Agglomération de Montpellier;;;;;Ensemble 1P;12,5;14,3;16,4;19,4;21,9;16,1;347;380;410;460;500;420;26;2870;17314;Estimation directe
+B3400;2018;Agglomération de Montpellier;;;;;Ensemble 2P;10,1;11,8;13,1;14,9;16,3;12,9;454;510;560;610;657;560;43;4756;26288;Estimation directe
+B3400;2018;Agglomération de Montpellier;;;;;Ensemble 3P;8,3;9,4;10,8;12,1;13,3;10,6;557;625;705;787;860;710;67;2825;19603;Estimation directe
+B3400;2018;Agglomération de Montpellier;;;;1. Moins de 1 an;;8,8;10,8;12,8;15,7;19,2;11,9;397;454;572;706;851;609;51;3822;;Estimation directe
+B3400;2018;Agglomération de Montpellier;;;;1. Moins de 1 an;Ensemble 4P+;5,5;8,2;9,6;11,1;12,1;9,3;460;725;906;1140;1229;910;98;353;;Estimation directe
+B3400;2018;Agglomération de Montpellier;;;;1. Moins de 1 an;Ensemble 1P;12,5;14,5;17;20;22,2;16,3;350;380;418;460;482;426;26;1098;;Estimation directe
+B3400;2018;Agglomération de Montpellier;;;;1. Moins de 1 an;Ensemble 2P;10,3;11,9;13;14,8;16,3;13,1;470;525;570;630;680;572;44;1499;;Estimation directe
+B3400;2018;Agglomération de Montpellier;;;;1. Moins de 1 an;Ensemble 3P;8,2;10;11,4;12,5;13,3;10,9;550;624;700;770;845;705;64;872;;Estimation directe
+B3400;2018;Agglomération de Montpellier;;;;2. 1 an et plus;;8,6;10;12,1;14,5;16,9;11,2;400;499;600;760;997;658;59;7932;;Estimation directe
+B3400;2018;Agglomération de Montpellier;;;;2. 1 an et plus;Ensemble 4P+;;;;;;;;;;;;;;950;;
+B3400;2018;Agglomération de Montpellier;;;;2. 1 an et plus;Ensemble 1P;;;;;;;;;;;;;;1772;;
+B3400;2018;Agglomération de Montpellier;;;;2. 1 an et plus;Ensemble 2P;;;;;;;;;;;;;;3257;;
+B3400;2018;Agglomération de Montpellier;;;;2. 1 an et plus;Ensemble 3P;;;;;;;;;;;;;;1953;;
+B3400;2018;Agglomération de Montpellier;;;1. Avant 1946;;;8,2;10,4;13,2;15,9;19,8;11,8;370;450;536;730;890;606;51;1858;;Estimation directe
+B3400;2018;Agglomération de Montpellier;;;1. Avant 1946;;Ensemble 4P+;6,2;7,9;8,8;12,2;13,3;9,3;700;750;1000;1200;1701;1031;111;157;;Estimation directe
+B3400;2018;Agglomération de Montpellier;;;1. Avant 1946;;Ensemble 1P;12,1;13,4;16,2;20;23,1;16,1;350;380;440;477;523;437;27;529;;Estimation directe
+B3400;2018;Agglomération de Montpellier;;;1. Avant 1946;;Ensemble 2P;8,9;11,8;14,3;16;17,1;13,2;375;475;526;580;650;528;40;719;;Estimation directe
+B3400;2018;Agglomération de Montpellier;;;1. Avant 1946;;Ensemble 3P;7,8;9,1;11,1;13,2;13,8;10,8;500;600;715;790;900;702;65;453;;Estimation directe
+B3400;2018;Agglomération de Montpellier;;;1. Avant 1946;1. Moins de 1 an;;9;11,5;13,4;17,8;21,6;12,8;391;460;518;685;750;567;44;674;;Estimation directe
+B3400;2018;Agglomération de Montpellier;;;1. Avant 1946;2. 1 an et plus;;8,1;9,7;12,9;15,3;17,5;11,3;369;450;540;740;950;630;56;1184;;Estimation directe
+B3400;2018;Agglomération de Montpellier;;;2. Entre 1946-1970;;;8;9;11;13,3;15,8;10,5;393;507;626;745;962;654;62;1224;;Estimation directe
+B3400;2018;Agglomération de Montpellier;;;2. Entre 1946-1970;;Ensemble 4P+;5,8;8;9,6;11,3;12,1;9,4;524;693;835;980;1105;851;90;296;;Estimation directe
+B3400;2018;Agglomération de Montpellier;;;2. Entre 1946-1970;;Ensemble 1P;12,5;13,5;15,2;20;25,3;16,1;340;380;390;400;438;390;24;215;;Estimation directe
+B3400;2018;Agglomération de Montpellier;;;2. Entre 1946-1970;;Ensemble 2P;8,7;10,5;12,4;14,2;15,8;12,1;400;500;580;620;660;558;46;309;;Estimation directe
+B3400;2018;Agglomération de Montpellier;;;2. Entre 1946-1970;;Ensemble 3P;8,3;8,8;9,9;11;13,2;10,1;550;609;676;730;856;683;68;404;;Estimation directe
+B3400;2018;Agglomération de Montpellier;;;2. Entre 1946-1970;1. Moins de 1 an;;8,4;9,6;11,6;15,2;16,6;11;380;465;600;720;962;638;58;361;;Estimation directe
+B3400;2018;Agglomération de Montpellier;;;2. Entre 1946-1970;2. 1 an et plus;;7,9;8,9;10,9;13;15,4;10,4;400;515;630;750;957;659;63;863;;Estimation directe
+B3400;2018;Agglomération de Montpellier;;;3. Entre 1971-1990;;;8,5;9,8;12;15,7;18,6;11;380;435;567;728;960;617;56;2143;;Estimation directe
+B3400;2018;Agglomération de Montpellier;;;3. Entre 1971-1990;;Ensemble 4P+;6,9;8,7;9,4;10,3;11,3;9,2;670;750;900;1030;1160;897;97;328;;Estimation directe
+B3400;2018;Agglomération de Montpellier;;;3. Entre 1971-1990;;Ensemble 1P;12,6;14,6;16,5;19,7;22,2;16,4;326;370;410;450;480;410;25;812;;Estimation directe
+B3400;2018;Agglomération de Montpellier;;;3. Entre 1971-1990;;Ensemble 2P;9,7;11;12,5;14,4;16,3;12,4;450;510;550;600;643;554;45;643;;Estimation directe
+B3400;2018;Agglomération de Montpellier;;;3. Entre 1971-1990;;Ensemble 3P;7,6;8,6;10;11,5;12,4;9,9;540;600;658;716;780;658;66;360;;Estimation directe
+B3400;2018;Agglomération de Montpellier;;;3. Entre 1971-1990;1. Moins de 1 an;;8,3;10;11,9;16;18,3;10,9;370;410;570;706;907;606;56;710;;Estimation directe
+B3400;2018;Agglomération de Montpellier;;;3. Entre 1971-1990;2. 1 an et plus;;8,6;9,6;12;15;18,6;11,1;383;450;566;744;1000;623;56;1433;;Estimation directe
+B3400;2018;Agglomération de Montpellier;;;4. Entre 1991-2005;;;9,3;11;12,7;15,4;18,3;11,8;407;488;597;735;920;640;54;2793;;Estimation directe
+B3400;2018;Agglomération de Montpellier;;;4. Entre 1991-2005;;Ensemble 4P+;5,5;7,8;9,9;10,6;11,8;9,2;590;650;950;1100;1257;928;101;201;;Estimation directe
+B3400;2018;Agglomération de Montpellier;;;4. Entre 1991-2005;;Ensemble 1P;14,1;15,8;18;20;20,9;17,3;360;390;415;450;494;420;24;710;;Estimation directe
+B3400;2018;Agglomération de Montpellier;;;4. Entre 1991-2005;;Ensemble 2P;10,7;12,1;13,1;14,9;16,3;13,1;470;537;579;619;660;574;44;1359;;Estimation directe
+B3400;2018;Agglomération de Montpellier;;;4. Entre 1991-2005;;Ensemble 3P;9,7;10,5;11,5;12,4;13,9;11,3;652;703;755;825;880;759;67;523;;Estimation directe
+B3400;2018;Agglomération de Montpellier;;;4. Entre 1991-2005;1. Moins de 1 an;;9,3;11,7;13,2;16,5;19,5;12,5;400;450;570;687;825;595;48;836;;Estimation directe
+B3400;2018;Agglomération de Montpellier;;;4. Entre 1991-2005;2. 1 an et plus;;9,2;10,6;12,4;14,8;16,6;11,5;421;522;602;780;960;665;58;1957;;Estimation directe
+B3400;2018;Agglomération de Montpellier;;;5. Après 2005;;;9,5;10,7;12,2;14;15,8;11,6;436;534;632;780;1035;687;59;3736;78224;Estimation directe
+B3400;2018;Agglomération de Montpellier;;;5. Après 2005;;Ensemble 4P+;8,1;9,1;10,6;11,3;12,5;10,3;800;950;1105;1295;1374;1091;106;321;15020;Estimation directe
+B3400;2018;Agglomération de Montpellier;;;5. Après 2005;;Ensemble 1P;12;13,7;15,3;16,4;17,7;14,2;343;374;420;461;530;428;30;604;17314;Estimation directe
+B3400;2018;Agglomération de Montpellier;;;5. Après 2005;;Ensemble 2P;11,2;12,2;13,4;14,5;15,8;13,3;480;520;570;624;680;569;43;1726;26288;Estimation directe
+B3400;2018;Agglomération de Montpellier;;;5. Après 2005;;Ensemble 3P;8,9;9,9;11;12;13;10,8;611;657;723;790;845;728;67;1085;19603;Estimation directe
+B3400;2018;Agglomération de Montpellier;;;5. Après 2005;1. Moins de 1 an;;10,1;11,1;12,7;14,4;15,6;12;434;520;620;705;905;653;54;1241;;Estimation directe
+B3400;2018;Agglomération de Montpellier;;;5. Après 2005;2. 1 an et plus;;9,2;10,5;12;13,7;15,8;11,4;445;540;648;800;1105;706;62;2495;;Estimation directe
+B3400;2018;Agglomération de Montpellier;;Maison;;;;8;8,8;10,2;11,6;13,3;9,9;600;730;950;1150;1300;945;96;592;9637;Estimation directe
+B3400;2018;Agglomération de Montpellier;;Maison;;;Maison 1-3P;8,2;8,9;11;13,7;15,4;10,8;493;590;650;800;895;691;64;140;3047;Estimation directe
+B3400;2018;Agglomération de Montpellier;;Maison;;;Maison 4P+;7,9;8,8;10;11,3;12,5;9,7;699;900;1035;1200;1332;1043;108;452;6590;Estimation directe
+B3400;2018;Agglomération de Montpellier;;Maison;;1. Moins de 1 an;;6,4;8,8;10,1;11,4;12,9;9,6;480;650;1011;1169;1322;969;101;162;;Estimation directe
+B3400;2018;Agglomération de Montpellier;;Maison;;1. Moins de 1 an;Maison 1-3P;;;;;;;;;;;;;;35;;Estimation directe
+B3400;2018;Agglomération de Montpellier;;Maison;;1. Moins de 1 an;Maison 4P+;5,1;8,8;10,5;11,2;12,6;9,7;625;962;1150;1200;1362;1090;113;127;;Estimation directe
+B3400;2018;Agglomération de Montpellier;;Maison;;2. 1 an et plus;;8,1;8,9;10,2;11,6;13,7;9,9;600;740;931;1117;1300;939;94;430;;Estimation directe
+B3400;2018;Agglomération de Montpellier;;Maison;;2. 1 an et plus;Maison 1-3P;8,6;8,9;11,2;13,7;15,4;11,1;530;600;690;800;943;708;64;105;;Estimation directe
+B3400;2018;Agglomération de Montpellier;;Maison;;2. 1 an et plus;Maison 4P+;8;8,8;10;11,3;12,5;9,7;699;894;1003;1200;1307;1030;107;325;;Estimation directe
+B3400;2018;Agglomération de Montpellier;;Maison;1. Avant 1946;;;8,1;8,6;9,7;13,3;15,4;10;480;571;663;800;1124;728;73;83;;Estimation directe
+B3400;2018;Agglomération de Montpellier;;Maison;1. Avant 1946;;Maison 1-3P;;;;;;;;;;;;;;44;;Estimation directe
+B3400;2018;Agglomération de Montpellier;;Maison;1. Avant 1946;;Maison 4P+;;;;;;;;;;;;;;39;;Estimation directe
+B3400;2018;Agglomération de Montpellier;;Maison;1. Avant 1946;1. Moins de 1 an;;;;;;;;;;;;;;;17;;Estimation directe
+B3400;2018;Agglomération de Montpellier;;Maison;1. Avant 1946;2. 1 an et plus;;8,2;8,6;9,7;13,3;15,4;10,3;480;590;740;809;1200;757;74;66;;Estimation directe
+B3400;2018;Agglomération de Montpellier;;Maison;2. Entre 1946-1970;;;5,2;9,3;11,3;12,8;13,8;10,4;520;693;900;1008;1161;897;87;94;;Estimation directe
+B3400;2018;Agglomération de Montpellier;;Maison;2. Entre 1946-1970;;Maison 1-3P;;;;;;;;;;;;;;13;;Estimation directe
+B3400;2018;Agglomération de Montpellier;;Maison;2. Entre 1946-1970;;Maison 4P+;5,2;9,3;11;11,6;13,8;10;520;858;962;1105;1260;930;93;81;;Estimation directe
+B3400;2018;Agglomération de Montpellier;;Maison;2. Entre 1946-1970;1. Moins de 1 an;;;;;;;;;;;;;;;28;;Estimation directe
+B3400;2018;Agglomération de Montpellier;;Maison;2. Entre 1946-1970;2. 1 an et plus;;7,9;9,5;11,3;13,7;14,1;10,7;550;693;900;1035;1141;905;85;66;;Estimation directe
+B3400;2018;Agglomération de Montpellier;;Maison;3. Entre 1971-1990;;;6,9;8,6;9;10,6;12,6;9,3;550;699;900;1100;1200;904;97;175;;Estimation directe
+B3400;2018;Agglomération de Montpellier;;Maison;3. Entre 1971-1990;;Maison 1-3P;;;;;;;;;;;;;;34;;Estimation directe
+B3400;2018;Agglomération de Montpellier;;Maison;3. Entre 1971-1990;;Maison 4P+;5,6;8,7;9,3;10,5;12,2;9,2;670;750;1000;1150;1200;974;106;141;;Estimation directe
+B3400;2018;Agglomération de Montpellier;;Maison;3. Entre 1971-1990;1. Moins de 1 an;;;;;;;;;;;;;;;48;;Estimation directe
+B3400;2018;Agglomération de Montpellier;;Maison;3. Entre 1971-1990;2. 1 an et plus;;8;8,6;9,3;11,1;12,6;9,6;600;699;880;1042;1160;889;92;127;;Estimation directe
+B3400;2018;Agglomération de Montpellier;;Maison;4. Entre 1991-2005;;;7,3;9,2;10,2;11,3;12,5;9,6;619;868;982;1196;1334;992;103;130;;Estimation directe
+B3400;2018;Agglomération de Montpellier;;Maison;4. Entre 1991-2005;;Maison 1-3P;;;;;;;;;;;;;;22;;Estimation directe
+B3400;2018;Agglomération de Montpellier;;Maison;4. Entre 1991-2005;;Maison 4P+;4,1;9,1;10;10,9;12,4;9,3;600;920;1000;1200;1407;1062;114;108;;Estimation directe
+B3400;2018;Agglomération de Montpellier;;Maison;4. Entre 1991-2005;1. Moins de 1 an;;;;;;;;;;;;;;;28;;Estimation directe
+B3400;2018;Agglomération de Montpellier;;Maison;4. Entre 1991-2005;2. 1 an et plus;;5,4;9,2;10,2;11,3;12,1;9,4;600;840;935;1109;1212;958;102;102;;Estimation directe
+B3400;2018;Agglomération de Montpellier;;Maison;5. Après 2005;;;8,7;9,5;10,9;11,6;13;10,4;760;950;1150;1300;1380;1130;108;110;9637;Estimation directe
+B3400;2018;Agglomération de Montpellier;;Maison;5. Après 2005;;Maison 1-3P;;;;;;;;;;;;;;27;;Estimation directe
+B3400;2018;Agglomération de Montpellier;;Maison;5. Après 2005;;Maison 4P+;8,1;9,5;10,9;11,6;12,9;10,4;950;1105;1175;1300;1380;1194;114;83;6590;Estimation directe
+B3400;2018;Agglomération de Montpellier;;Maison;5. Après 2005;1. Moins de 1 an;;;;;;;;;;;;;;;41;;Estimation directe
+B3400;2018;Agglomération de Montpellier;;Maison;5. Après 2005;2. 1 an et plus;;8,1;8,9;10,1;11,6;13;10,2;760;950;1175;1300;1380;1137;112;69;;Estimation directe
+B3400;2018;Agglomération de Montpellier;;Appartement;;;;8,8;10,6;12,6;15,2;18,2;11,8;393;460;576;700;820;598;51;11162;68588;Estimation directe
+B3400;2018;Agglomération de Montpellier;;Appartement;;;Appart 1P;12,5;14,3;16,4;19,4;22;16,1;347;380;410;460;500;420;26;2866;17123;Estimation directe
+B3400;2018;Agglomération de Montpellier;;Appartement;;;Appart 2P;10,3;11,9;13,1;14,8;16,3;13;454;510;560;608;660;560;43;4739;25611;Estimation directe
+B3400;2018;Agglomération de Montpellier;;Appartement;;;Appart 3P;8,3;9,5;10,8;12,1;13,2;10,6;574;627;700;780;850;708;67;2706;17424;Estimation directe
+B3400;2018;Agglomération de Montpellier;;Appartement;;;Appart 4P+;6,7;8;9,6;10,9;11,9;9,3;590;706;838;995;1150;869;93;851;8430;Estimation directe
+B3400;2018;Agglomération de Montpellier;;Appartement;;1. Moins de 1 an;;9,3;11,1;13;15,8;19,3;12,3;390;450;566;690;780;580;47;3660;;Estimation directe
+B3400;2018;Agglomération de Montpellier;;Appartement;;1. Moins de 1 an;Appart 1P;12,5;14,5;17;20;22,2;16,3;350;380;419;460;482;426;26;1094;;Estimation directe
+B3400;2018;Agglomération de Montpellier;;Appartement;;1. Moins de 1 an;Appart 2P;10,3;12;13;14,9;16,3;13,1;468;524;570;630;680;571;44;1495;;Estimation directe
+B3400;2018;Agglomération de Montpellier;;Appartement;;1. Moins de 1 an;Appart 3P;8,4;10,2;11,4;12,5;13,3;11,1;580;640;703;768;845;710;64;845;;Estimation directe
+B3400;2018;Agglomération de Montpellier;;Appartement;;1. Moins de 1 an;Appart 4P+;5,5;7,9;9,4;10,5;11,8;9;440;706;780;951;1100;805;89;226;;Estimation directe
+B3400;2018;Agglomération de Montpellier;;Appartement;;2. 1 an et plus;;8,7;10,3;12,4;14,9;17,4;11,6;393;474;581;700;845;608;53;7502;;Estimation directe
+B3400;2018;Agglomération de Montpellier;;Appartement;;2. 1 an et plus;Appart 1P;12,6;14,1;16,1;18,6;20,9;16;340;375;405;460;504;415;26;1772;;Estimation directe
+B3400;2018;Agglomération de Montpellier;;Appartement;;2. 1 an et plus;Appart 2P;10,1;11,9;13,1;14,8;16,2;12,9;448;505;558;601;654;554;43;3244;;Estimation directe
+B3400;2018;Agglomération de Montpellier;;Appartement;;2. 1 an et plus;Appart 3P;8,2;9,3;10,6;11,7;13;10,4;557;625;700;780;856;706;68;1861;;Estimation directe
+B3400;2018;Agglomération de Montpellier;;Appartement;;2. 1 an et plus;Appart 4P+;6,9;8;9,7;10,9;12,1;9,4;600;715;870;1000;1177;897;95;625;;Estimation directe
+B3400;2018;Agglomération de Montpellier;;Appartement;1. Avant 1946;;;8,2;10,9;13,3;16,2;20;12,1;363;449;525;700;860;593;49;1775;;Estimation directe
+B3400;2018;Agglomération de Montpellier;;Appartement;1. Avant 1946;;Appart 1P;12,1;13,4;16;20;23,3;16,1;350;380;440;477;523;437;27;526;;Estimation directe
+B3400;2018;Agglomération de Montpellier;;Appartement;1. Avant 1946;;Appart 2P;8,9;11,9;14,3;15,9;17,1;13,3;375;482;527;580;650;527;40;711;;Estimation directe
+B3400;2018;Agglomération de Montpellier;;Appartement;1. Avant 1946;;Appart 3P;7,8;9,4;11,4;13,1;13,6;10,9;500;600;720;798;900;707;65;420;;Estimation directe
+B3400;2018;Agglomération de Montpellier;;Appartement;1. Avant 1946;;Appart 4P+;5,9;7,9;8,8;12,2;14;9,3;700;750;1000;1200;1701;1043;112;118;;Estimation directe
+B3400;2018;Agglomération de Montpellier;;Appartement;1. Avant 1946;1. Moins de 1 an;;9,3;12,2;13,4;18;22;13,2;392;450;515;685;750;565;43;657;;Estimation directe
+B3400;2018;Agglomération de Montpellier;;Appartement;1. Avant 1946;2. 1 an et plus;;8;10,4;13,2;15,5;17,5;11,6;350;433;530;720;910;612;53;1118;;Estimation directe
+B3400;2018;Agglomération de Montpellier;;Appartement;2. Entre 1946-1970;;;8,1;9;11;13,4;16,9;10,6;390;480;607;710;808;613;58;1130;;Estimation directe
+B3400;2018;Agglomération de Montpellier;;Appartement;2. Entre 1946-1970;;Appart 1P;12,5;13,5;15,2;20;25,3;16,1;340;380;390;400;438;390;24;215;;Estimation directe
+B3400;2018;Agglomération de Montpellier;;Appartement;2. Entre 1946-1970;;Appart 2P;8,7;10,5;12,4;14,2;15,8;12,1;400;500;580;620;660;558;46;309;;Estimation directe
+B3400;2018;Agglomération de Montpellier;;Appartement;2. Entre 1946-1970;;Appart 3P;8,3;8,7;9,9;10,8;12,4;9,9;557;609;669;720;811;673;68;391;;Estimation directe
+B3400;2018;Agglomération de Montpellier;;Appartement;2. Entre 1946-1970;;Appart 4P+;6,7;7,9;8,9;10,9;11,8;9;580;670;750;950;1100;797;89;215;;Estimation directe
+B3400;2018;Agglomération de Montpellier;;Appartement;2. Entre 1946-1970;1. Moins de 1 an;;8,5;9,9;11,8;15,2;17,4;11,4;380;465;600;710;841;609;54;333;;Estimation directe
+B3400;2018;Agglomération de Montpellier;;Appartement;2. Entre 1946-1970;2. 1 an et plus;;7,9;8,8;10,8;12,9;16,9;10,3;393;500;610;715;802;615;59;797;;Estimation directe
+B3400;2018;Agglomération de Montpellier;;Appartement;3. Entre 1971-1990;;;8,8;10,1;12,5;16,3;19,4;11,7;370;420;520;670;780;559;48;1968;;Estimation directe
+B3400;2018;Agglomération de Montpellier;;Appartement;3. Entre 1971-1990;;Appart 1P;12,6;14,6;16,5;19,7;22,2;16,4;326;370;410;450;480;410;25;811;;Estimation directe
+B3400;2018;Agglomération de Montpellier;;Appartement;3. Entre 1971-1990;;Appart 2P;10;11,1;12,5;14,1;16,3;12,5;450;505;550;600;650;552;44;637;;Estimation directe
+B3400;2018;Agglomération de Montpellier;;Appartement;3. Entre 1971-1990;;Appart 3P;7,9;8,8;10,1;11,5;12,4;10;540;600;670;716;779;659;66;333;;Estimation directe
+B3400;2018;Agglomération de Montpellier;;Appartement;3. Entre 1971-1990;;Appart 4P+;7;8,7;9,8;10,1;11,3;9,3;657;715;780;960;1000;819;88;187;;Estimation directe
+B3400;2018;Agglomération de Montpellier;;Appartement;3. Entre 1971-1990;1. Moins de 1 an;;8,5;10,3;12,1;16,2;19,3;11,6;370;410;535;690;780;564;49;662;;Estimation directe
+B3400;2018;Agglomération de Montpellier;;Appartement;3. Entre 1971-1990;2. 1 an et plus;;8,8;10,1;12,6;16,3;19,5;11,8;377;425;520;642;792;556;47;1306;;Estimation directe
+B3400;2018;Agglomération de Montpellier;;Appartement;4. Entre 1991-2005;;;9,9;11,4;13;15,7;18,9;12,3;400;465;580;690;825;598;48;2663;;Estimation directe
+B3400;2018;Agglomération de Montpellier;;Appartement;4. Entre 1991-2005;;Appart 1P;14,1;15,8;18;20;20,9;17,3;360;390;415;450;494;420;24;710;;Estimation directe
+B3400;2018;Agglomération de Montpellier;;Appartement;4. Entre 1991-2005;;Appart 2P;10,7;12,2;13,2;14,9;16,3;13,1;465;535;574;614;662;574;44;1356;;Estimation directe
+B3400;2018;Agglomération de Montpellier;;Appartement;4. Entre 1991-2005;;Appart 3P;9,7;10,5;11,5;12,4;13,9;11,3;650;700;750;816;865;752;66;504;;Estimation directe
+B3400;2018;Agglomération de Montpellier;;Appartement;4. Entre 1991-2005;;Appart 4P+;5,5;7,5;9,7;10,5;11,2;9,1;440;600;870;960;1100;813;89;93;;Estimation directe
+B3400;2018;Agglomération de Montpellier;;Appartement;4. Entre 1991-2005;1. Moins de 1 an;;9,3;11,8;13,4;16,8;19,9;12,7;400;443;560;650;772;570;45;808;;Estimation directe
+B3400;2018;Agglomération de Montpellier;;Appartement;4. Entre 1991-2005;2. 1 an et plus;;9,9;11,2;12,9;15,1;17,1;12,1;414;500;590;700;870;616;51;1855;;Estimation directe
+B3400;2018;Agglomération de Montpellier;;Appartement;5. Après 2005;;;9,6;10,9;12,5;14,3;15,8;11,9;427;520;614;704;825;626;53;3626;68588;Estimation directe
+B3400;2018;Agglomération de Montpellier;;Appartement;5. Après 2005;;Appart 1P;12;13,7;15,3;16,4;17,7;14,2;343;374;420;461;530;428;30;604;17123;Estimation directe
+B3400;2018;Agglomération de Montpellier;;Appartement;5. Après 2005;;Appart 2P;11,2;12,2;13,4;14,5;15,8;13,3;480;520;570;624;680;569;43;1726;25611;Estimation directe
+B3400;2018;Agglomération de Montpellier;;Appartement;5. Après 2005;;Appart 3P;9,2;9,9;11;12;13;10,8;605;650;718;790;845;725;67;1058;17424;Estimation directe
+B3400;2018;Agglomération de Montpellier;;Appartement;5. Après 2005;;Appart 4P+;7,6;9;10,4;11,2;12,1;10,1;735;800;941;1020;1137;935;93;238;8430;Estimation directe
+B3400;2018;Agglomération de Montpellier;;Appartement;5. Après 2005;1. Moins de 1 an;;10,1;11,3;12,8;14,4;15,7;12,1;424;508;600;690;800;609;50;1200;;Estimation directe
+B3400;2018;Agglomération de Montpellier;;Appartement;5. Après 2005;2. 1 an et plus;;9,5;10,7;12,2;14;15,8;11,8;430;530;619;740;825;636;54;2426;;Estimation directe
+B3400;2018;Agglomération de Montpellier;Ville centre;;;;;8,7;10,4;12,5;15,3;18,3;11,7;392;457;580;710;880;609;52;8999;58398;Estimation directe
+B3400;2018;Agglomération de Montpellier;Ville centre;;;;Maison 1-3P;;;;;;;;;;;;;;31;;Estimation directe
+B3400;2018;Agglomération de Montpellier;Ville centre;;;;Ensemble 4P+;6,9;8,2;9,7;10,9;12,1;9,4;600;730;900;1021;1156;900;96;719;8785;Estimation directe
+B3400;2018;Agglomération de Montpellier;Ville centre;;;;Maison 4P+;8,4;8,8;10,2;11,2;12,4;9,8;750;880;1010;1144;1209;1000;102;111;1816;Estimation directe
+B3400;2018;Agglomération de Montpellier;Ville centre;;;;Appart 1P;12,5;14,5;16,5;19,6;22;16,1;350;380;410;460;500;421;26;2547;15311;Estimation directe
+B3400;2018;Agglomération de Montpellier;Ville centre;;;;Appart 2P;10;11,8;13,1;14,9;16,4;13;451;510;560;606;680;561;43;3699;20158;Estimation directe
+B3400;2018;Agglomération de Montpellier;Ville centre;;;;Appart 3P;8,3;9,4;10,8;12,1;13,2;10,6;565;627;700;770;846;705;66;2003;13130;Estimation directe
+B3400;2018;Agglomération de Montpellier;Ville centre;;;;Appart 4P+;6,7;7,9;9,6;10,7;12;9,3;590;706;826;1000;1117;866;94;608;6969;Estimation directe
+B3400;2018;Agglomération de Montpellier;Ville centre;;;;Ensemble 1P;12,5;14,5;16,5;19,6;22;16,1;350;380;410;460;500;421;26;2550;15453;Estimation directe
+B3400;2018;Agglomération de Montpellier;Ville centre;;;;Ensemble 2P;10;11,8;13,1;14,9;16,4;13;451;510;560;606;680;561;43;3702;20376;Estimation directe
+B3400;2018;Agglomération de Montpellier;Ville centre;;;;Ensemble 3P;8,4;9,4;10,8;12,1;13,3;10,6;568;626;700;774;846;706;66;2028;13783;Estimation directe
+B3400;2018;Agglomération de Montpellier;Ville centre;;;1. Moins de 1 an;;9,3;11;13;16;19,6;12,2;396;450;565;695;782;588;48;2919;;Estimation directe
+B3400;2018;Agglomération de Montpellier;Ville centre;;;1. Moins de 1 an;Ensemble 4P+;5,5;7,9;9,4;10,6;11,8;9,2;440;706;780;1000;1150;834;91;184;;Estimation directe
+B3400;2018;Agglomération de Montpellier;Ville centre;;;1. Moins de 1 an;Ensemble 1P;12,3;14,5;16,8;20,5;22,2;16,2;350;380;420;460;480;428;26;965;;Estimation directe
+B3400;2018;Agglomération de Montpellier;Ville centre;;;1. Moins de 1 an;Ensemble 2P;10,3;11,9;13,2;15,5;16,5;13,2;470;524;570;621;690;575;44;1162;;Estimation directe
+B3400;2018;Agglomération de Montpellier;Ville centre;;;1. Moins de 1 an;Ensemble 3P;8,5;10,2;11,4;12,5;13,3;11,1;593;647;700;750;825;704;63;608;;Estimation directe
+B3400;2018;Agglomération de Montpellier;Ville centre;;;2. 1 an et plus;;8,6;10,1;12,3;14,9;17,7;11,4;390;465;585;723;910;622;54;6080;;Estimation directe
+B3400;2018;Agglomération de Montpellier;Ville centre;;;2. 1 an et plus;Ensemble 4P+;;;;;;;;;;;;;;535;;
+B3400;2018;Agglomération de Montpellier;Ville centre;;;2. 1 an et plus;Ensemble 1P;;;;;;;;;;;;;;1585;;
+B3400;2018;Agglomération de Montpellier;Ville centre;;;2. 1 an et plus;Ensemble 2P;;;;;;;;;;;;;;2540;;
+B3400;2018;Agglomération de Montpellier;Ville centre;;;2. 1 an et plus;Ensemble 3P;;;;;;;;;;;;;;1420;;
+B3400;2018;Agglomération de Montpellier;Ville centre;;1. Avant 1946;;;8,3;10,9;13,3;16,4;20,3;12,1;360;440;520;704;880;594;49;1582;;Estimation directe
+B3400;2018;Agglomération de Montpellier;Ville centre;;1. Avant 1946;;Ensemble 4P+;5,9;7,9;8,8;12,2;13,3;9,2;740;750;1000;1200;1701;1073;116;99;;Estimation directe
+B3400;2018;Agglomération de Montpellier;Ville centre;;1. Avant 1946;;Ensemble 1P;12,1;13,6;16;19,8;23,7;16,1;350;380;440;477;523;436;27;509;;Estimation directe
+B3400;2018;Agglomération de Montpellier;Ville centre;;1. Avant 1946;;Ensemble 2P;8,9;11,9;14;16,2;17,1;13,3;352;474;523;580;650;526;40;636;;Estimation directe
+B3400;2018;Agglomération de Montpellier;Ville centre;;1. Avant 1946;;Ensemble 3P;8;9,5;11,2;13,2;13,8;11;480;600;704;750;870;692;63;338;;Estimation directe
+B3400;2018;Agglomération de Montpellier;Ville centre;;1. Avant 1946;1. Moins de 1 an;;9,3;12,4;14,2;18;22;13,4;366;450;510;669;750;554;41;579;;Estimation directe
+B3400;2018;Agglomération de Montpellier;Ville centre;;1. Avant 1946;2. 1 an et plus;;8;10,2;13;15,4;18,2;11,4;350;428;523;730;1000;622;55;1003;;Estimation directe
+B3400;2018;Agglomération de Montpellier;Ville centre;;2. Entre 1946-1970;;;8,2;9,1;11,2;13,6;16,9;10,7;390;500;615;720;900;630;59;1053;;Estimation directe
+B3400;2018;Agglomération de Montpellier;Ville centre;;2. Entre 1946-1970;;Ensemble 4P+;6,7;7,9;9,4;11,3;12,4;9,3;575;670;764;1005;1105;824;88;224;;Estimation directe
+B3400;2018;Agglomération de Montpellier;Ville centre;;2. Entre 1946-1970;;Ensemble 1P;12,5;13,5;15,2;20;25,3;16,1;340;380;390;400;425;388;24;208;;Estimation directe
+B3400;2018;Agglomération de Montpellier;Ville centre;;2. Entre 1946-1970;;Ensemble 2P;8,7;10,8;12,4;14,8;15,8;12,2;400;500;573;624;710;556;46;273;;Estimation directe
+B3400;2018;Agglomération de Montpellier;Ville centre;;2. Entre 1946-1970;;Ensemble 3P;8,4;8,8;9,9;11;12,9;10,1;557;609;677;720;820;679;68;348;;Estimation directe
+B3400;2018;Agglomération de Montpellier;Ville centre;;2. Entre 1946-1970;1. Moins de 1 an;;8,7;9,9;11,9;15,2;17,5;11,4;380;465;600;710;900;619;54;308;;Estimation directe
+B3400;2018;Agglomération de Montpellier;Ville centre;;2. Entre 1946-1970;2. 1 an et plus;;7,9;8,8;11;13,3;16,8;10,5;393;500;624;730;880;633;61;745;;Estimation directe
+B3400;2018;Agglomération de Montpellier;Ville centre;;3. Entre 1971-1990;;;8,7;10;12,1;16,3;19,6;11,5;375;420;529;699;880;582;51;1738;;Estimation directe
+B3400;2018;Agglomération de Montpellier;Ville centre;;3. Entre 1971-1990;;Ensemble 4P+;8,3;8,8;9,6;10,1;11,2;9,5;699;750;880;1000;1100;869;92;164;;Estimation directe
+B3400;2018;Agglomération de Montpellier;Ville centre;;3. Entre 1971-1990;;Ensemble 1P;12,6;14,6;16,5;20;22,2;16,4;345;371;410;452;480;413;25;731;;Estimation directe
+B3400;2018;Agglomération de Montpellier;Ville centre;;3. Entre 1971-1990;;Ensemble 2P;9,9;10,9;12,3;14;16,4;12,5;450;500;545;600;650;550;44;564;;Estimation directe
+B3400;2018;Agglomération de Montpellier;Ville centre;;3. Entre 1971-1990;;Ensemble 3P;7,9;8,5;9,8;11,3;12,1;9,8;540;600;658;700;735;645;66;279;;Estimation directe
+B3400;2018;Agglomération de Montpellier;Ville centre;;3. Entre 1971-1990;1. Moins de 1 an;;8,8;10,1;12;16,4;19,6;11,4;370;410;545;700;906;591;52;571;;Estimation directe
+B3400;2018;Agglomération de Montpellier;Ville centre;;3. Entre 1971-1990;2. 1 an et plus;;8,7;10;12,4;16,3;19,6;11,5;380;430;520;688;880;576;50;1167;;Estimation directe
+B3400;2018;Agglomération de Montpellier;Ville centre;;4. Entre 1991-2005;;;9,7;11,1;13;15,7;18,5;12,2;407;465;586;710;870;613;50;2073;;Estimation directe
+B3400;2018;Agglomération de Montpellier;Ville centre;;4. Entre 1991-2005;;Ensemble 4P+;5,5;7,8;9,9;10,5;11;9,2;440;650;893;960;1100;833;91;90;;Estimation directe
+B3400;2018;Agglomération de Montpellier;Ville centre;;4. Entre 1991-2005;;Ensemble 1P;13,9;15,8;17,7;20;20,8;17,2;360;395;416;450;470;419;24;610;;Estimation directe
+B3400;2018;Agglomération de Montpellier;Ville centre;;4. Entre 1991-2005;;Ensemble 2P;10,6;12,1;13,2;14,9;16,3;13,1;471;531;580;618;686;579;44;1026;;Estimation directe
+B3400;2018;Agglomération de Montpellier;Ville centre;;4. Entre 1991-2005;;Ensemble 3P;9,9;10,4;11,6;12,4;13,9;11,4;663;710;769;825;900;769;67;347;;Estimation directe
+B3400;2018;Agglomération de Montpellier;Ville centre;;4. Entre 1991-2005;1. Moins de 1 an;;9,3;11,7;13;16,3;19,3;12,4;410;450;560;710;823;587;47;632;;Estimation directe
+B3400;2018;Agglomération de Montpellier;Ville centre;;4. Entre 1991-2005;2. 1 an et plus;;9,9;11;12,7;15,1;17,4;12;405;494;590;724;910;629;52;1441;;Estimation directe
+B3400;2018;Agglomération de Montpellier;Ville centre;;5. Après 2005;;;9,6;11;12,6;14,5;16;11,9;424;525;613;720;873;638;53;2553;58398;Estimation directe
+B3400;2018;Agglomération de Montpellier;Ville centre;;5. Après 2005;;Ensemble 4P+;7,6;8,8;10,6;11,5;12,5;10;765;890;990;1078;1380;1007;101;142;8785;Estimation directe
+B3400;2018;Agglomération de Montpellier;Ville centre;;5. Après 2005;;Ensemble 1P;11,9;14;15,6;16,9;17,7;14,2;340;370;420;482;530;435;31;492;15453;Estimation directe
+B3400;2018;Agglomération de Montpellier;Ville centre;;5. Après 2005;;Ensemble 2P;11,2;12,2;13,5;14,6;15,8;13,3;480;528;570;620;680;573;43;1203;20376;Estimation directe
+B3400;2018;Agglomération de Montpellier;Ville centre;;5. Après 2005;;Ensemble 3P;9,4;9,9;11,1;12;13;11;620;670;725;790;856;738;67;716;13783;Estimation directe
+B3400;2018;Agglomération de Montpellier;Ville centre;;5. Après 2005;1. Moins de 1 an;;10,3;11,4;13,1;14,6;15,8;12,3;420;520;600;690;804;611;50;829;;Estimation directe
+B3400;2018;Agglomération de Montpellier;Ville centre;;5. Après 2005;2. 1 an et plus;;9,6;10,8;12,3;14,4;16,3;11,8;432;530;630;754;921;654;55;1724;;Estimation directe
+B3400;2018;Agglomération de Montpellier;Ville centre;Maison;;;;8,6;8,8;10,2;11,3;13,7;9,9;600;750;930;1105;1200;946;95;142;2829;Estimation directe
+B3400;2018;Agglomération de Montpellier;Ville centre;Maison;;;Maison 1-3P;;;;;;;;;;;;;;31;;Estimation directe
+B3400;2018;Agglomération de Montpellier;Ville centre;Maison;;;Maison 4P+;8,4;8,8;10,2;11,2;12,4;9,8;750;880;1010;1144;1209;1000;102;111;1816;Estimation directe
+B3400;2018;Agglomération de Montpellier;Ville centre;Maison;;1. Moins de 1 an;;;;;;;;;;;;;;;32;;Estimation directe
+B3400;2018;Agglomération de Montpellier;Ville centre;Maison;;1. Moins de 1 an;Maison 1-3P;;;;;;;;;;;;;;6;;Estimation directe
+B3400;2018;Agglomération de Montpellier;Ville centre;Maison;;1. Moins de 1 an;Maison 4P+;;;;;;;;;;;;;;26;;Estimation directe
+B3400;2018;Agglomération de Montpellier;Ville centre;Maison;;2. 1 an et plus;;8,6;8,8;10,2;11,3;13,7;9,9;600;750;920;1100;1200;930;93;110;;Estimation directe
+B3400;2018;Agglomération de Montpellier;Ville centre;Maison;;2. 1 an et plus;Maison 1-3P;;;;;;;;;;;;;;25;;Estimation directe
+B3400;2018;Agglomération de Montpellier;Ville centre;Maison;;2. 1 an et plus;Maison 4P+;8,1;8,8;10,2;11,2;12,2;9,8;699;858;1000;1100;1200;975;99;85;;Estimation directe
+B3400;2018;Agglomération de Montpellier;Ville centre;Maison;1. Avant 1946;;;;;;;;;;;;;;;;25;;Estimation directe
+B3400;2018;Agglomération de Montpellier;Ville centre;Maison;1. Avant 1946;;Maison 1-3P;;;;;;;;;;;;;;13;;Estimation directe
+B3400;2018;Agglomération de Montpellier;Ville centre;Maison;1. Avant 1946;;Maison 4P+;;;;;;;;;;;;;;12;;Estimation directe
+B3400;2018;Agglomération de Montpellier;Ville centre;Maison;1. Avant 1946;1. Moins de 1 an;;;;;;;;;;;;;;;4;;Estimation directe
+B3400;2018;Agglomération de Montpellier;Ville centre;Maison;1. Avant 1946;2. 1 an et plus;;;;;;;;;;;;;;;21;;Estimation directe
+B3400;2018;Agglomération de Montpellier;Ville centre;Maison;2. Entre 1946-1970;;;;;;;;;;;;;;;;39;;Estimation directe
+B3400;2018;Agglomération de Montpellier;Ville centre;Maison;2. Entre 1946-1970;;Maison 1-3P;;;;;;;;;;;;;;4;;Estimation directe
+B3400;2018;Agglomération de Montpellier;Ville centre;Maison;2. Entre 1946-1970;;Maison 4P+;;;;;;;;;;;;;;35;;Estimation directe
+B3400;2018;Agglomération de Montpellier;Ville centre;Maison;2. Entre 1946-1970;1. Moins de 1 an;;;;;;;;;;;;;;;10;;Estimation directe
+B3400;2018;Agglomération de Montpellier;Ville centre;Maison;2. Entre 1946-1970;2. 1 an et plus;;;;;;;;;;;;;;;29;;Estimation directe
+B3400;2018;Agglomération de Montpellier;Ville centre;Maison;3. Entre 1971-1990;;;;;;;;;;;;;;;;28;;Estimation directe
+B3400;2018;Agglomération de Montpellier;Ville centre;Maison;3. Entre 1971-1990;;Maison 1-3P;;;;;;;;;;;;;;6;;Estimation directe
+B3400;2018;Agglomération de Montpellier;Ville centre;Maison;3. Entre 1971-1990;;Maison 4P+;;;;;;;;;;;;;;22;;Estimation directe
+B3400;2018;Agglomération de Montpellier;Ville centre;Maison;3. Entre 1971-1990;1. Moins de 1 an;;;;;;;;;;;;;;;6;;Estimation directe
+B3400;2018;Agglomération de Montpellier;Ville centre;Maison;3. Entre 1971-1990;2. 1 an et plus;;;;;;;;;;;;;;;22;;Estimation directe
+B3400;2018;Agglomération de Montpellier;Ville centre;Maison;4. Entre 1991-2005;;;;;;;;;;;;;;;;27;;Estimation directe
+B3400;2018;Agglomération de Montpellier;Ville centre;Maison;4. Entre 1991-2005;;Maison 1-3P;;;;;;;;;;;;;;7;;Estimation directe
+B3400;2018;Agglomération de Montpellier;Ville centre;Maison;4. Entre 1991-2005;;Maison 4P+;;;;;;;;;;;;;;20;;Estimation directe
+B3400;2018;Agglomération de Montpellier;Ville centre;Maison;4. Entre 1991-2005;1. Moins de 1 an;;;;;;;;;;;;;;;3;;Estimation directe
+B3400;2018;Agglomération de Montpellier;Ville centre;Maison;4. Entre 1991-2005;2. 1 an et plus;;;;;;;;;;;;;;;24;;Estimation directe
+B3400;2018;Agglomération de Montpellier;Ville centre;Maison;5. Après 2005;;;;;;;;;;;;;;;;23;;Estimation directe
+B3400;2018;Agglomération de Montpellier;Ville centre;Maison;5. Après 2005;;Maison 1-3P;;;;;;;;;;;;;;1;;Estimation directe
+B3400;2018;Agglomération de Montpellier;Ville centre;Maison;5. Après 2005;;Maison 4P+;;;;;;;;;;;;;;22;;Estimation directe
+B3400;2018;Agglomération de Montpellier;Ville centre;Maison;5. Après 2005;1. Moins de 1 an;;;;;;;;;;;;;;;9;;Estimation directe
+B3400;2018;Agglomération de Montpellier;Ville centre;Maison;5. Après 2005;2. 1 an et plus;;;;;;;;;;;;;;;14;;Estimation directe
+B3400;2018;Agglomération de Montpellier;Ville centre;Appartement;;;;8,8;10,5;12,6;15,6;18,5;11,9;390;450;570;700;807;592;50;8857;55568;Estimation directe
+B3400;2018;Agglomération de Montpellier;Ville centre;Appartement;;;Appart 1P;12,5;14,5;16,5;19,6;22;16,1;350;380;410;460;500;421;26;2547;15311;Estimation directe
+B3400;2018;Agglomération de Montpellier;Ville centre;Appartement;;;Appart 2P;10;11,8;13,1;14,9;16,4;13;451;510;560;606;680;561;43;3699;20158;Estimation directe
+B3400;2018;Agglomération de Montpellier;Ville centre;Appartement;;;Appart 3P;8,3;9,4;10,8;12,1;13,2;10,6;565;627;700;770;846;705;66;2003;13130;Estimation directe
+B3400;2018;Agglomération de Montpellier;Ville centre;Appartement;;;Appart 4P+;6,7;7,9;9,6;10,7;12;9,3;590;706;826;1000;1117;866;94;608;6969;Estimation directe
+B3400;2018;Agglomération de Montpellier;Ville centre;Appartement;;1. Moins de 1 an;;9,3;11,1;13;16;19,8;12,3;395;448;560;690;755;578;47;2887;;Estimation directe
+B3400;2018;Agglomération de Montpellier;Ville centre;Appartement;;1. Moins de 1 an;Appart 1P;12,3;14,5;16,8;20,5;22,2;16,2;350;382;420;460;482;429;26;962;;Estimation directe
+B3400;2018;Agglomération de Montpellier;Ville centre;Appartement;;1. Moins de 1 an;Appart 2P;10,3;11,9;13,2;15,5;16,5;13,2;470;524;570;621;690;575;44;1162;;Estimation directe
+B3400;2018;Agglomération de Montpellier;Ville centre;Appartement;;1. Moins de 1 an;Appart 3P;8,5;10,2;11,4;12,5;13,3;11,2;590;649;700;750;825;704;63;605;;Estimation directe
+B3400;2018;Agglomération de Montpellier;Ville centre;Appartement;;1. Moins de 1 an;Appart 4P+;5,5;7,9;9,4;10,5;11,8;9;440;685;750;950;1073;784;87;158;;Estimation directe
+B3400;2018;Agglomération de Montpellier;Ville centre;Appartement;;2. 1 an et plus;;8,7;10,3;12,4;15;17,7;11,6;385;458;574;700;845;601;52;5970;;Estimation directe
+B3400;2018;Agglomération de Montpellier;Ville centre;Appartement;;2. 1 an et plus;Appart 1P;12,6;14,2;16,4;19;21,1;16,1;341;375;405;460;512;416;26;1585;;Estimation directe
+B3400;2018;Agglomération de Montpellier;Ville centre;Appartement;;2. 1 an et plus;Appart 2P;10;11,8;13;14,6;16,3;12,9;438;501;553;600;660;552;43;2537;;Estimation directe
+B3400;2018;Agglomération de Montpellier;Ville centre;Appartement;;2. 1 an et plus;Appart 3P;8,2;9,3;10,4;11,7;13;10,4;550;624;700;780;863;706;68;1398;;Estimation directe
+B3400;2018;Agglomération de Montpellier;Ville centre;Appartement;;2. 1 an et plus;Appart 4P+;6,9;8;9,8;10,8;12,1;9,4;629;715;870;1008;1178;906;97;450;;Estimation directe
+B3400;2018;Agglomération de Montpellier;Ville centre;Appartement;1. Avant 1946;;;8,3;11,1;13,4;16,6;20,3;12,2;350;440;520;699;845;587;48;1557;;Estimation directe
+B3400;2018;Agglomération de Montpellier;Ville centre;Appartement;1. Avant 1946;;Appart 1P;12,1;13,5;16;19,8;23,8;16,1;349;380;440;477;523;437;27;506;;Estimation directe
+B3400;2018;Agglomération de Montpellier;Ville centre;Appartement;1. Avant 1946;;Appart 2P;8,9;11,9;14;16,2;17,1;13,3;352;475;524;580;650;526;40;633;;Estimation directe
+B3400;2018;Agglomération de Montpellier;Ville centre;Appartement;1. Avant 1946;;Appart 3P;8;9,5;11,3;13,2;13,8;11;490;600;705;750;869;692;63;331;;Estimation directe
+B3400;2018;Agglomération de Montpellier;Ville centre;Appartement;1. Avant 1946;;Appart 4P+;5,9;7,6;9,1;12,2;13,3;9,3;735;799;1000;1330;1701;1084;117;87;;Estimation directe
+B3400;2018;Agglomération de Montpellier;Ville centre;Appartement;1. Avant 1946;1. Moins de 1 an;;9,3;12,4;14,2;18;22;13,4;374;450;514;673;750;555;41;575;;Estimation directe
+B3400;2018;Agglomération de Montpellier;Ville centre;Appartement;1. Avant 1946;2. 1 an et plus;;8;10,7;13,2;15,5;18,2;11,6;350;422;523;705;945;609;53;982;;Estimation directe
+B3400;2018;Agglomération de Montpellier;Ville centre;Appartement;2. Entre 1946-1970;;;8,3;9;11,1;13,5;17;10,7;385;465;602;705;800;607;57;1014;;Estimation directe
+B3400;2018;Agglomération de Montpellier;Ville centre;Appartement;2. Entre 1946-1970;;Appart 1P;12,5;13,5;15,2;20;25,3;16,1;340;380;390;400;425;388;24;208;;Estimation directe
+B3400;2018;Agglomération de Montpellier;Ville centre;Appartement;2. Entre 1946-1970;;Appart 2P;8,7;10,8;12,4;14,8;15,8;12,2;400;500;573;624;710;556;46;273;;Estimation directe
+B3400;2018;Agglomération de Montpellier;Ville centre;Appartement;2. Entre 1946-1970;;Appart 3P;8,4;8,8;9,9;10,8;12,5;9,9;557;608;670;720;802;674;68;344;;Estimation directe
+B3400;2018;Agglomération de Montpellier;Ville centre;Appartement;2. Entre 1946-1970;;Appart 4P+;6,7;7,8;8,7;11,3;11,8;9;580;670;740;950;1100;786;88;189;;Estimation directe
+B3400;2018;Agglomération de Montpellier;Ville centre;Appartement;2. Entre 1946-1970;1. Moins de 1 an;;8,7;9,9;11,9;15,2;17,7;11,4;380;465;600;710;841;607;53;298;;Estimation directe
+B3400;2018;Agglomération de Montpellier;Ville centre;Appartement;2. Entre 1946-1970;2. 1 an et plus;;8;8,8;10,8;13,1;16,9;10,4;393;479;609;703;800;607;58;716;;Estimation directe
+B3400;2018;Agglomération de Montpellier;Ville centre;Appartement;3. Entre 1971-1990;;;8,8;10,1;12,5;16,4;20;11,8;370;415;510;656;750;549;46;1710;;Estimation directe
+B3400;2018;Agglomération de Montpellier;Ville centre;Appartement;3. Entre 1971-1990;;Appart 1P;12,6;14,6;16,5;20;22,2;16,4;345;371;410;452;480;413;25;731;;Estimation directe
+B3400;2018;Agglomération de Montpellier;Ville centre;Appartement;3. Entre 1971-1990;;Appart 2P;9,9;10,9;12,3;14;16,4;12,5;450;500;545;600;650;550;44;564;;Estimation directe
+B3400;2018;Agglomération de Montpellier;Ville centre;Appartement;3. Entre 1971-1990;;Appart 3P;7,9;8,5;9,9;11,4;12,1;9,8;540;590;658;700;735;646;66;273;;Estimation directe
+B3400;2018;Agglomération de Montpellier;Ville centre;Appartement;3. Entre 1971-1990;;Appart 4P+;7,9;8,8;9,8;10,1;11,1;9,4;642;715;780;960;1000;807;86;142;;Estimation directe
+B3400;2018;Agglomération de Montpellier;Ville centre;Appartement;3. Entre 1971-1990;1. Moins de 1 an;;8,7;10,3;12,1;16,4;20,2;11,7;370;410;525;690;780;565;48;565;;Estimation directe
+B3400;2018;Agglomération de Montpellier;Ville centre;Appartement;3. Entre 1971-1990;2. 1 an et plus;;8,8;10,1;12,8;16,5;20;11,9;370;420;505;615;744;539;45;1145;;Estimation directe
+B3400;2018;Agglomération de Montpellier;Ville centre;Appartement;4. Entre 1991-2005;;;9,7;11,4;13;15,7;18,6;12,3;405;462;580;700;825;602;49;2046;;Estimation directe
+B3400;2018;Agglomération de Montpellier;Ville centre;Appartement;4. Entre 1991-2005;;Appart 1P;13,9;15,8;17,7;20;20,8;17,2;360;395;416;450;470;419;24;610;;Estimation directe
+B3400;2018;Agglomération de Montpellier;Ville centre;Appartement;4. Entre 1991-2005;;Appart 2P;10,6;12,1;13,2;14,9;16,3;13,1;471;531;580;618;686;579;44;1026;;Estimation directe
+B3400;2018;Agglomération de Montpellier;Ville centre;Appartement;4. Entre 1991-2005;;Appart 3P;9,9;10,4;11,6;12,4;13,9;11,4;665;710;767;825;900;767;67;340;;Estimation directe
+B3400;2018;Agglomération de Montpellier;Ville centre;Appartement;4. Entre 1991-2005;;Appart 4P+;5,5;6,9;9,7;10,5;11;9;440;590;861;960;1100;797;89;70;;Estimation directe
+B3400;2018;Agglomération de Montpellier;Ville centre;Appartement;4. Entre 1991-2005;1. Moins de 1 an;;9,3;11,7;13;16,3;19,4;12,5;410;450;560;710;804;583;47;629;;Estimation directe
+B3400;2018;Agglomération de Montpellier;Ville centre;Appartement;4. Entre 1991-2005;2. 1 an et plus;;10;11,1;13;15,4;17,6;12,2;403;486;590;700;870;613;50;1417;;Estimation directe
+B3400;2018;Agglomération de Montpellier;Ville centre;Appartement;5. Après 2005;;;9,6;11;12,7;14,5;16;12,1;420;520;606;700;825;624;52;2530;55568;Estimation directe
+B3400;2018;Agglomération de Montpellier;Ville centre;Appartement;5. Après 2005;;Appart 1P;11,9;14;15,6;16,9;17,7;14,2;340;370;420;482;530;435;31;492;15311;Estimation directe
+B3400;2018;Agglomération de Montpellier;Ville centre;Appartement;5. Après 2005;;Appart 2P;11,2;12,2;13,5;14,6;15,8;13,3;480;528;570;620;680;573;43;1203;20158;Estimation directe
+B3400;2018;Agglomération de Montpellier;Ville centre;Appartement;5. Après 2005;;Appart 3P;9,4;9,9;11,1;12;13;11;620;670;724;790;848;737;67;715;13130;Estimation directe
+B3400;2018;Agglomération de Montpellier;Ville centre;Appartement;5. Après 2005;;Appart 4P+;7,6;9,1;10,6;11,3;12,4;10,1;740;850;963;1020;1105;944;93;120;6969;Estimation directe
+B3400;2018;Agglomération de Montpellier;Ville centre;Appartement;5. Après 2005;1. Moins de 1 an;;10,3;11,4;13,2;14,6;15,8;12,3;420;515;590;685;765;601;49;820;;Estimation directe
+B3400;2018;Agglomération de Montpellier;Ville centre;Appartement;5. Après 2005;2. 1 an et plus;;9,6;10,9;12,3;14,5;16,3;12;426;529;624;744;845;637;53;1710;;Estimation directe
+B3400;2018;Agglomération de Montpellier;Périphérie;;;;;8,2;9,7;11,4;13,5;15,6;10,7;450;550;650;888;1173;738;69;2755;19827;Estimation directe
+B3400;2018;Agglomération de Montpellier;Périphérie;;;;Maison 1-3P;8,2;8,9;11;13,3;15,4;10,7;530;561;650;800;907;692;65;109;2034;Estimation directe
+B3400;2018;Agglomération de Montpellier;Périphérie;;;;Ensemble 4P+;6,7;8,7;10;11,2;12,5;9,6;670;813;1000;1200;1307;1022;106;584;6235;Estimation directe
+B3400;2018;Agglomération de Montpellier;Périphérie;;;;Maison 4P+;5,6;9;10;11,3;12,5;9,6;670;906;1105;1212;1362;1064;111;341;4774;Estimation directe
+B3400;2018;Agglomération de Montpellier;Périphérie;;;;Appart 1P;13,3;14,2;15,6;19,2;20;16;328;365;403;460;500;412;26;319;1811;Estimation directe
+B3400;2018;Agglomération de Montpellier;Périphérie;;;;Appart 2P;10,8;12,2;13,1;14,8;15,9;13;470;527;564;617;640;558;43;1040;5454;Estimation directe
+B3400;2018;Agglomération de Montpellier;Périphérie;;;;Appart 3P;8,2;9,9;10,9;11,9;13,1;10,6;580;627;705;800;860;716;67;703;4293;Estimation directe
+B3400;2018;Agglomération de Montpellier;Périphérie;;;;Appart 4P+;7;8,3;9,7;11,2;11,9;9,6;600;715;855;962;1200;883;92;243;1461;Estimation directe
+B3400;2018;Agglomération de Montpellier;Périphérie;;;;Ensemble 1P;13,3;14,2;15,6;19,2;20;16;328;365;403;460;500;412;26;320;1861;Estimation directe
+B3400;2018;Agglomération de Montpellier;Périphérie;;;;Ensemble 2P;10,1;11,9;13,1;14,8;15,9;12,8;463;531;570;619;640;560;44;1054;5912;Estimation directe
+B3400;2018;Agglomération de Montpellier;Périphérie;;;;Ensemble 3P;7,9;9,6;10,9;12,1;13,3;10,6;540;618;727;800;880;720;68;797;5820;Estimation directe
+B3400;2018;Agglomération de Montpellier;Périphérie;;;1. Moins de 1 an;;7,3;10,4;12,4;14,3;17,5;11;400;486;610;802;1150;681;62;903;;Estimation directe
+B3400;2018;Agglomération de Montpellier;Périphérie;;;1. Moins de 1 an;Ensemble 4P+;5,1;9;10,4;11,1;12,4;9,5;625;860;1090;1200;1362;1051;110;169;;Estimation directe
+B3400;2018;Agglomération de Montpellier;Périphérie;;;1. Moins de 1 an;Ensemble 1P;14,2;15,3;17,3;20;20,7;17,1;309;365;410;460;498;411;24;133;;Estimation directe
+B3400;2018;Agglomération de Montpellier;Périphérie;;;1. Moins de 1 an;Ensemble 2P;10;12;13;14,3;15;12,5;450;530;580;630;640;558;45;337;;Estimation directe
+B3400;2018;Agglomération de Montpellier;Périphérie;;;1. Moins de 1 an;Ensemble 3P;6,9;8,7;10,9;12,1;13,1;10,4;500;580;703;809;925;709;68;264;;Estimation directe
+B3400;2018;Agglomération de Montpellier;Périphérie;;;2. 1 an et plus;;8,3;9,5;11,3;13,2;15,3;10,6;490;574;693;918;1175;765;72;1852;;Estimation directe
+B3400;2018;Agglomération de Montpellier;Périphérie;;;2. 1 an et plus;Ensemble 4P+;;;;;;;;;;;;;;415;;
+B3400;2018;Agglomération de Montpellier;Périphérie;;;2. 1 an et plus;Ensemble 1P;;;;;;;;;;;;;;187;;
+B3400;2018;Agglomération de Montpellier;Périphérie;;;2. 1 an et plus;Ensemble 2P;;;;;;;;;;;;;;717;;
+B3400;2018;Agglomération de Montpellier;Périphérie;;;2. 1 an et plus;Ensemble 3P;;;;;;;;;;;;;;533;;
+B3400;2018;Agglomération de Montpellier;Périphérie;;1. Avant 1946;;;8,2;8,9;11,9;15;16,2;10,9;460;540;640;800;950;662;61;276;;Estimation directe
+B3400;2018;Agglomération de Montpellier;Périphérie;;1. Avant 1946;;Ensemble 4P+;7,6;8,6;9,1;11,1;17,5;9,5;600;700;751;900;1122;811;85;58;;Estimation directe
+B3400;2018;Agglomération de Montpellier;Périphérie;;1. Avant 1946;;Ensemble 1P;;;;;;;;;;;;;;20;;Estimation directe
+B3400;2018;Agglomération de Montpellier;Périphérie;;1. Avant 1946;;Ensemble 2P;9,7;10;14,7;15,9;16,9;12,9;403;475;540;605;650;541;42;83;;Estimation directe
+B3400;2018;Agglomération de Montpellier;Périphérie;;1. Avant 1946;;Ensemble 3P;7,8;8,4;10,5;13,3;15,2;10,4;530;590;730;807;950;719;69;115;;Estimation directe
+B3400;2018;Agglomération de Montpellier;Périphérie;;1. Avant 1946;1. Moins de 1 an;;6,4;8,4;10,8;13,1;20;10,4;460;500;595;805;980;656;63;95;;Estimation directe
+B3400;2018;Agglomération de Montpellier;Périphérie;;1. Avant 1946;2. 1 an et plus;;8,2;8,9;12,4;15;16,1;11,2;450;540;640;791;880;664;60;181;;Estimation directe
+B3400;2018;Agglomération de Montpellier;Périphérie;;2. Entre 1946-1970;;;7,1;8,9;9,7;11,6;14,2;9,9;500;580;800;975;1131;801;81;171;;Estimation directe
+B3400;2018;Agglomération de Montpellier;Périphérie;;2. Entre 1946-1970;;Ensemble 4P+;5,8;8,9;9,7;11,3;11,6;9,6;524;779;961;980;1260;917;95;72;;Estimation directe
+B3400;2018;Agglomération de Montpellier;Périphérie;;2. Entre 1946-1970;;Ensemble 1P;;;;;;;;;;;;;;7;;Estimation directe
+B3400;2018;Agglomération de Montpellier;Périphérie;;2. Entre 1946-1970;;Ensemble 2P;;;;;;;;;;;;;;36;;Estimation directe
+B3400;2018;Agglomération de Montpellier;Périphérie;;2. Entre 1946-1970;;Ensemble 3P;7,1;8,5;9,2;12;14,2;10,1;500;550;666;900;997;713;70;56;;Estimation directe
+B3400;2018;Agglomération de Montpellier;Périphérie;;2. Entre 1946-1970;1. Moins de 1 an;;5,1;8,5;9,6;10,8;12,6;9;460;497;742;962;970;758;84;53;;Estimation directe
+B3400;2018;Agglomération de Montpellier;Périphérie;;2. Entre 1946-1970;2. 1 an et plus;;7,9;9,1;10,9;11,6;14,2;10,2;524;600;800;980;1200;814;80;118;;Estimation directe
+B3400;2018;Agglomération de Montpellier;Périphérie;;3. Entre 1971-1990;;;6,5;8,6;10,6;12,9;15,2;9,7;460;580;715;950;1160;772;79;405;;Estimation directe
+B3400;2018;Agglomération de Montpellier;Périphérie;;3. Entre 1971-1990;;Ensemble 4P+;4,8;8;9;10,8;12,6;8,9;625;750;918;1160;1252;948;107;164;;Estimation directe
+B3400;2018;Agglomération de Montpellier;Périphérie;;3. Entre 1971-1990;;Ensemble 1P;13,2;14,6;15,6;15,6;17,2;15,2;280;280;318;426;450;354;23;81;;Estimation directe
+B3400;2018;Agglomération de Montpellier;Périphérie;;3. Entre 1971-1990;;Ensemble 2P;8,6;11,4;13,8;15;15,7;12,3;514;550;600;620;630;574;47;79;;Estimation directe
+B3400;2018;Agglomération de Montpellier;Périphérie;;3. Entre 1971-1990;;Ensemble 3P;6,9;9,6;10,6;12;13,5;10,4;480;600;735;816;895;712;68;81;;Estimation directe
+B3400;2018;Agglomération de Montpellier;Périphérie;;3. Entre 1971-1990;1. Moins de 1 an;;4;6,9;10,7;14,8;15,6;8,8;280;480;625;830;1194;702;80;139;;Estimation directe
+B3400;2018;Agglomération de Montpellier;Périphérie;;3. Entre 1971-1990;2. 1 an et plus;;8;9;10,5;12,7;14,8;10,1;486;600;750;970;1160;799;79;266;;Estimation directe
+B3400;2018;Agglomération de Montpellier;Périphérie;;4. Entre 1991-2005;;;9;10,5;12,3;14,4;17;11,1;403;542;619;858;1161;703;63;720;;Estimation directe
+B3400;2018;Agglomération de Montpellier;Périphérie;;4. Entre 1991-2005;;Ensemble 4P+;4,1;9;10;11,2;12,5;9,2;600;944;1000;1200;1407;1049;114;111;;Estimation directe
+B3400;2018;Agglomération de Montpellier;Périphérie;;4. Entre 1991-2005;;Ensemble 1P;14,3;16,1;19,2;20;21,8;17,6;365;365;400;480;510;425;24;100;;Estimation directe
+B3400;2018;Agglomération de Montpellier;Périphérie;;4. Entre 1991-2005;;Ensemble 2P;11,1;12;13,1;14,9;16;12,9;460;550;570;619;634;560;43;333;;Estimation directe
+B3400;2018;Agglomération de Montpellier;Périphérie;;4. Entre 1991-2005;;Ensemble 3P;9,5;10,5;11,4;12,4;13,2;11,1;604;680;740;823;880;739;67;176;;Estimation directe
+B3400;2018;Agglomération de Montpellier;Périphérie;;4. Entre 1991-2005;1. Moins de 1 an;;10;12,4;13,6;17,3;20;12,7;365;403;570;634;1120;617;48;204;;Estimation directe
+B3400;2018;Agglomération de Montpellier;Périphérie;;4. Entre 1991-2005;2. 1 an et plus;;8,4;10;11,4;13,4;15,6;10,5;500;560;655;931;1175;748;71;516;;Estimation directe
+B3400;2018;Agglomération de Montpellier;Périphérie;;5. Après 2005;;;8,9;10,4;11,5;13,1;14,5;11,1;451;568;681;925;1207;767;69;1183;19827;Estimation directe
+B3400;2018;Agglomération de Montpellier;Périphérie;;5. Après 2005;;Ensemble 4P+;8,7;9,5;10,5;11,3;12,6;10,4;815;959;1150;1300;1301;1133;109;179;6235;Estimation directe
+B3400;2018;Agglomération de Montpellier;Périphérie;;5. Après 2005;;Ensemble 1P;12,7;13,3;14,2;15;16,4;14,2;349;392;406;440;450;408;29;112;1861;Estimation directe
+B3400;2018;Agglomération de Montpellier;Périphérie;;5. Après 2005;;Ensemble 2P;11,2;12,2;12,9;14,5;15,4;13,1;480;500;566;630;640;560;43;523;5912;Estimation directe
+B3400;2018;Agglomération de Montpellier;Périphérie;;5. Après 2005;;Ensemble 3P;8,5;9,7;10,8;11,9;13,2;10,6;600;630;720;790;845;715;67;369;5820;Estimation directe
+B3400;2018;Agglomération de Montpellier;Périphérie;;5. Après 2005;1. Moins de 1 an;;10;10,8;12,1;14,1;14,5;11,6;440;540;640;845;1150;722;62;412;;Estimation directe
+B3400;2018;Agglomération de Montpellier;Périphérie;;5. Après 2005;2. 1 an et plus;;8,7;10;11,2;12,9;14,5;10,9;489;585;705;960;1300;792;73;771;;Estimation directe
+B3400;2018;Agglomération de Montpellier;Périphérie;Maison;;;;6,9;8,9;10,1;11,6;13,3;9,8;557;693;950;1175;1300;944;96;450;6808;Estimation directe
+B3400;2018;Agglomération de Montpellier;Périphérie;Maison;;;Maison 1-3P;8,2;8,9;11;13,3;15,4;10,7;530;561;650;800;907;692;65;109;2034;Estimation directe
+B3400;2018;Agglomération de Montpellier;Périphérie;Maison;;;Maison 4P+;5,6;9;10;11,3;12,5;9,6;670;906;1105;1212;1362;1064;111;341;4774;Estimation directe
+B3400;2018;Agglomération de Montpellier;Périphérie;Maison;;1. Moins de 1 an;;5,1;7,9;10,3;11,2;12,6;9,5;480;625;962;1200;1323;950;100;130;;Estimation directe
+B3400;2018;Agglomération de Montpellier;Périphérie;Maison;;1. Moins de 1 an;Maison 1-3P;;;;;;;;;;;;;;29;;Estimation directe
+B3400;2018;Agglomération de Montpellier;Périphérie;Maison;;1. Moins de 1 an;Maison 4P+;5,1;9,3;10,5;11,2;12,5;9,6;625;962;1150;1215;1380;1076;112;101;;Estimation directe
+B3400;2018;Agglomération de Montpellier;Périphérie;Maison;;2. 1 an et plus;;8,1;9;10;11,8;13,5;9,9;600;730;950;1160;1300;942;95;320;;Estimation directe
+B3400;2018;Agglomération de Montpellier;Périphérie;Maison;;2. 1 an et plus;Maison 1-3P;8,6;9,2;11,3;14,1;15,5;11,1;550;600;730;800;950;708;64;80;;Estimation directe
+B3400;2018;Agglomération de Montpellier;Périphérie;Maison;;2. 1 an et plus;Maison 4P+;7,8;8,8;10;11,3;12,6;9,6;693;900;1076;1211;1340;1060;110;240;;Estimation directe
+B3400;2018;Agglomération de Montpellier;Périphérie;Maison;1. Avant 1946;;;6,6;8,4;10;13,3;15,4;10,2;530;575;650;751;950;684;67;58;;Estimation directe
+B3400;2018;Agglomération de Montpellier;Périphérie;Maison;1. Avant 1946;;Maison 1-3P;;;;;;;;;;;;;;31;;Estimation directe
+B3400;2018;Agglomération de Montpellier;Périphérie;Maison;1. Avant 1946;;Maison 4P+;;;;;;;;;;;;;;27;;Estimation directe
+B3400;2018;Agglomération de Montpellier;Périphérie;Maison;1. Avant 1946;1. Moins de 1 an;;;;;;;;;;;;;;;13;;Estimation directe
+B3400;2018;Agglomération de Montpellier;Périphérie;Maison;1. Avant 1946;2. 1 an et plus;;;;;;;;;;;;;;;45;;Estimation directe
+B3400;2018;Agglomération de Montpellier;Périphérie;Maison;2. Entre 1946-1970;;;7,7;9,2;9,9;11,6;14,2;10,1;550;693;962;997;1260;904;90;55;;Estimation directe
+B3400;2018;Agglomération de Montpellier;Périphérie;Maison;2. Entre 1946-1970;;Maison 1-3P;;;;;;;;;;;;;;9;;Estimation directe
+B3400;2018;Agglomération de Montpellier;Périphérie;Maison;2. Entre 1946-1970;;Maison 4P+;;;;;;;;;;;;;;46;;Estimation directe
+B3400;2018;Agglomération de Montpellier;Périphérie;Maison;2. Entre 1946-1970;1. Moins de 1 an;;;;;;;;;;;;;;;18;;Estimation directe
+B3400;2018;Agglomération de Montpellier;Périphérie;Maison;2. Entre 1946-1970;2. 1 an et plus;;;;;;;;;;;;;;;37;;Estimation directe
+B3400;2018;Agglomération de Montpellier;Périphérie;Maison;3. Entre 1971-1990;;;5,6;8;9;11,2;13,7;9,1;514;625;800;1125;1214;878;97;147;;Estimation directe
+B3400;2018;Agglomération de Montpellier;Périphérie;Maison;3. Entre 1971-1990;;Maison 1-3P;;;;;;;;;;;;;;28;;Estimation directe
+B3400;2018;Agglomération de Montpellier;Périphérie;Maison;3. Entre 1971-1990;;Maison 4P+;4,8;8;9;10,6;12,6;8,9;625;750;941;1160;1300;962;109;119;;Estimation directe
+B3400;2018;Agglomération de Montpellier;Périphérie;Maison;3. Entre 1971-1990;1. Moins de 1 an;;;;;;;;;;;;;;;42;;Estimation directe
+B3400;2018;Agglomération de Montpellier;Périphérie;Maison;3. Entre 1971-1990;2. 1 an et plus;;5,6;8,3;9;11,5;14,4;9,5;550;670;809;1125;1200;882;93;105;;Estimation directe
+B3400;2018;Agglomération de Montpellier;Périphérie;Maison;4. Entre 1991-2005;;;4,1;9,1;10,2;11,3;12,5;9,5;600;807;1000;1200;1352;999;106;103;;Estimation directe
+B3400;2018;Agglomération de Montpellier;Périphérie;Maison;4. Entre 1991-2005;;Maison 1-3P;;;;;;;;;;;;;;15;;Estimation directe
+B3400;2018;Agglomération de Montpellier;Périphérie;Maison;4. Entre 1991-2005;;Maison 4P+;4,1;9,1;9,4;11,1;12,5;9,1;600;970;1068;1200;1414;1081;118;88;;Estimation directe
+B3400;2018;Agglomération de Montpellier;Périphérie;Maison;4. Entre 1991-2005;1. Moins de 1 an;;;;;;;;;;;;;;;25;;Estimation directe
+B3400;2018;Agglomération de Montpellier;Périphérie;Maison;4. Entre 1991-2005;2. 1 an et plus;;4,1;9,1;10;11,3;12,2;9,2;600;619;1000;1175;1250;958;104;78;;Estimation directe
+B3400;2018;Agglomération de Montpellier;Périphérie;Maison;5. Après 2005;;;8,7;9,7;10,9;11,6;13;10,6;760;950;1150;1300;1300;1124;106;87;6808;Estimation directe
+B3400;2018;Agglomération de Montpellier;Périphérie;Maison;5. Après 2005;;Maison 1-3P;;;;;;;;;;;;;;26;;Estimation directe
+B3400;2018;Agglomération de Montpellier;Périphérie;Maison;5. Après 2005;;Maison 4P+;8,7;10;10,9;11,6;13;10,6;950;1105;1192;1300;1443;1197;113;61;4774;Estimation directe
+B3400;2018;Agglomération de Montpellier;Périphérie;Maison;5. Après 2005;1. Moins de 1 an;;;;;;;;;;;;;;;32;;Estimation directe
+B3400;2018;Agglomération de Montpellier;Périphérie;Maison;5. Après 2005;2. 1 an et plus;;8,7;9,5;10,4;11,8;13;10,4;760;950;1175;1300;1470;1126;109;55;;Estimation directe
+B3400;2018;Agglomération de Montpellier;Périphérie;Appartement;;;;8,8;10,7;12,4;14,4;16,1;11,6;405;505;600;705;845;623;54;2305;13019;Estimation directe
+B3400;2018;Agglomération de Montpellier;Périphérie;Appartement;;;Appart 1P;13,3;14,2;15,6;19,2;20;16;328;365;403;460;500;412;26;319;1811;Estimation directe
+B3400;2018;Agglomération de Montpellier;Périphérie;Appartement;;;Appart 2P;10,8;12,2;13,1;14,8;15,9;13;470;527;564;617;640;558;43;1040;5454;Estimation directe
+B3400;2018;Agglomération de Montpellier;Périphérie;Appartement;;;Appart 3P;8,2;9,9;10,9;11,9;13,1;10,6;580;627;705;800;860;716;67;703;4293;Estimation directe
+B3400;2018;Agglomération de Montpellier;Périphérie;Appartement;;;Appart 4P+;7;8,3;9,7;11,2;11,9;9,6;600;715;855;962;1200;883;92;243;1461;Estimation directe
+B3400;2018;Agglomération de Montpellier;Périphérie;Appartement;;1. Moins de 1 an;;9,1;11,2;13;14,8;19,2;12,1;365;460;571;680;845;591;49;773;;Estimation directe
+B3400;2018;Agglomération de Montpellier;Périphérie;Appartement;;1. Moins de 1 an;Appart 1P;14,2;15,1;17,3;20;20,7;17,1;309;365;410;460;480;410;24;132;;Estimation directe
+B3400;2018;Agglomération de Montpellier;Périphérie;Appartement;;1. Moins de 1 an;Appart 2P;10,8;12,4;13;14,4;15;12,7;445;520;575;630;640;554;44;333;;Estimation directe
+B3400;2018;Agglomération de Montpellier;Périphérie;Appartement;;1. Moins de 1 an;Appart 3P;8,2;10,1;11,1;12,1;13,1;10,9;540;610;725;840;950;729;67;240;;Estimation directe
+B3400;2018;Agglomération de Montpellier;Périphérie;Appartement;;1. Moins de 1 an;Appart 4P+;6;7,8;9,5;10,6;12;9,1;715;750;861;1090;1290;959;106;68;;Estimation directe
+B3400;2018;Agglomération de Montpellier;Périphérie;Appartement;;2. 1 an et plus;;8,8;10,5;11,9;14;15,8;11,4;452;540;615;730;860;642;57;1532;;Estimation directe
+B3400;2018;Agglomération de Montpellier;Périphérie;Appartement;;2. 1 an et plus;Appart 1P;12,8;13,3;14,3;15,3;17,4;14,4;333;378;400;458;500;414;29;187;;Estimation directe
+B3400;2018;Agglomération de Montpellier;Périphérie;Appartement;;2. 1 an et plus;Appart 2P;10,9;12,2;13,5;15,2;16;13,3;475;530;560;610;642;560;42;707;;Estimation directe
+B3400;2018;Agglomération de Montpellier;Périphérie;Appartement;;2. 1 an et plus;Appart 3P;7,9;9,7;10,9;11,7;12,9;10,5;600;636;700;788;840;709;68;463;;Estimation directe
+B3400;2018;Agglomération de Montpellier;Périphérie;Appartement;;2. 1 an et plus;Appart 4P+;7,5;8,6;9,7;11,2;11,8;9,7;600;700;845;950;1177;862;89;175;;Estimation directe
+B3400;2018;Agglomération de Montpellier;Périphérie;Appartement;1. Avant 1946;;;8,2;9,7;12,2;15;17,5;11,5;435;500;600;800;950;646;56;218;;Estimation directe
+B3400;2018;Agglomération de Montpellier;Périphérie;Appartement;1. Avant 1946;;Appart 1P;;;;;;;;;;;;;;20;;Estimation directe
+B3400;2018;Agglomération de Montpellier;Périphérie;Appartement;1. Avant 1946;;Appart 2P;8,9;12,3;14,8;15,9;16,9;13,6;375;523;540;550;650;534;39;78;;Estimation directe
+B3400;2018;Agglomération de Montpellier;Périphérie;Appartement;1. Avant 1946;;Appart 3P;7,8;9;11,4;11,9;13,1;10,5;500;660;800;880;980;772;73;89;;Estimation directe
+B3400;2018;Agglomération de Montpellier;Périphérie;Appartement;1. Avant 1946;;Appart 4P+;;;;;;;;;;;;;;31;;Estimation directe
+B3400;2018;Agglomération de Montpellier;Périphérie;Appartement;1. Avant 1946;1. Moins de 1 an;;8,2;10,1;12;15,3;20;11,7;460;460;565;950;980;664;57;82;;Estimation directe
+B3400;2018;Agglomération de Montpellier;Périphérie;Appartement;1. Avant 1946;2. 1 an et plus;;8,6;9,7;12,3;15;16,9;11,4;400;540;600;774;860;636;56;136;;Estimation directe
+B3400;2018;Agglomération de Montpellier;Périphérie;Appartement;2. Entre 1946-1970;;;7,1;8,7;9,7;11,9;13,9;9,7;500;546;611;800;913;687;71;116;;Estimation directe
+B3400;2018;Agglomération de Montpellier;Périphérie;Appartement;2. Entre 1946-1970;;Appart 1P;;;;;;;;;;;;;;7;;Estimation directe
+B3400;2018;Agglomération de Montpellier;Périphérie;Appartement;2. Entre 1946-1970;;Appart 2P;;;;;;;;;;;;;;36;;Estimation directe
+B3400;2018;Agglomération de Montpellier;Périphérie;Appartement;2. Entre 1946-1970;;Appart 3P;;;;;;;;;;;;;;47;;Estimation directe
+B3400;2018;Agglomération de Montpellier;Périphérie;Appartement;2. Entre 1946-1970;;Appart 4P+;;;;;;;;;;;;;;26;;Estimation directe
+B3400;2018;Agglomération de Montpellier;Périphérie;Appartement;2. Entre 1946-1970;1. Moins de 1 an;;;;;;;;;;;;;;;35;;Estimation directe
+B3400;2018;Agglomération de Montpellier;Périphérie;Appartement;2. Entre 1946-1970;2. 1 an et plus;;7,1;8,9;9,7;11,7;13,5;9,6;491;524;618;800;930;693;72;81;;Estimation directe
+B3400;2018;Agglomération de Montpellier;Périphérie;Appartement;3. Entre 1971-1990;;;8,3;10,3;12,4;14,5;15,6;11;328;530;620;780;918;645;59;258;;Estimation directe
+B3400;2018;Agglomération de Montpellier;Périphérie;Appartement;3. Entre 1971-1990;;Appart 1P;13;14,6;15,6;15,6;16,9;15,2;280;280;312;424;450;351;23;80;;Estimation directe
+B3400;2018;Agglomération de Montpellier;Périphérie;Appartement;3. Entre 1971-1990;;Appart 2P;11;12,4;13,8;14,5;15;13,1;461;550;600;620;630;572;44;73;;Estimation directe
+B3400;2018;Agglomération de Montpellier;Périphérie;Appartement;3. Entre 1971-1990;;Appart 3P;9,6;10;10,9;12,1;12,9;10,9;600;674;780;810;820;740;68;60;;Estimation directe
+B3400;2018;Agglomération de Montpellier;Périphérie;Appartement;3. Entre 1971-1990;;Appart 4P+;;;;;;;;;;;;;;45;;Estimation directe
+B3400;2018;Agglomération de Montpellier;Périphérie;Appartement;3. Entre 1971-1990;1. Moins de 1 an;;6;10,3;13,5;15,6;15,6;10,3;280;305;600;715;802;557;54;97;;Estimation directe
+B3400;2018;Agglomération de Montpellier;Périphérie;Appartement;3. Entre 1971-1990;2. 1 an et plus;;9,6;10,3;11,9;13,9;15;11,3;450;575;630;810;918;686;61;161;;Estimation directe
+B3400;2018;Agglomération de Montpellier;Périphérie;Appartement;4. Entre 1991-2005;;;9,9;11,4;13,1;15,8;19,2;12,5;380;498;570;660;775;586;47;617;;Estimation directe
+B3400;2018;Agglomération de Montpellier;Périphérie;Appartement;4. Entre 1991-2005;;Appart 1P;14,3;16,1;19,2;20;21,8;17,6;365;365;400;480;510;425;24;100;;Estimation directe
+B3400;2018;Agglomération de Montpellier;Périphérie;Appartement;4. Entre 1991-2005;;Appart 2P;11,1;12,3;13,3;14,9;16;13,1;460;545;560;610;638;555;43;330;;Estimation directe
+B3400;2018;Agglomération de Montpellier;Périphérie;Appartement;4. Entre 1991-2005;;Appart 3P;9,1;10,5;11,4;12,4;13,2;11,1;596;680;703;775;841;711;64;164;;Estimation directe
+B3400;2018;Agglomération de Montpellier;Périphérie;Appartement;4. Entre 1991-2005;;Appart 4P+;;;;;;;;;;;;;;23;;Estimation directe
+B3400;2018;Agglomération de Montpellier;Périphérie;Appartement;4. Entre 1991-2005;1. Moins de 1 an;;10,8;12,7;14,3;19,2;20;13,4;365;400;535;630;700;532;40;179;;Estimation directe
+B3400;2018;Agglomération de Montpellier;Périphérie;Appartement;4. Entre 1991-2005;2. 1 an et plus;;9,9;11,2;12,5;14,9;16;12;460;550;600;690;812;625;52;438;;Estimation directe
+B3400;2018;Agglomération de Montpellier;Périphérie;Appartement;5. Après 2005;;;9,2;10,6;12,1;13,7;14,8;11,5;440;517;616;716;828;630;55;1096;13019;Estimation directe
+B3400;2018;Agglomération de Montpellier;Périphérie;Appartement;5. Après 2005;;Appart 1P;12,7;13,3;14,2;15;16,4;14,2;349;392;406;440;450;408;29;112;1811;Estimation directe
+B3400;2018;Agglomération de Montpellier;Périphérie;Appartement;5. Après 2005;;Appart 2P;11,2;12,2;12,9;14,5;15,4;13,1;480;500;566;630;640;560;43;523;5454;Estimation directe
+B3400;2018;Agglomération de Montpellier;Périphérie;Appartement;5. Après 2005;;Appart 3P;8,5;10;10,8;11,8;13,1;10,7;600;615;700;786;840;703;66;343;4293;Estimation directe
+B3400;2018;Agglomération de Montpellier;Périphérie;Appartement;5. Après 2005;;Appart 4P+;8,2;9;9,6;10,8;11,9;9,9;687;800;865;980;1162;920;93;118;1461;Estimation directe
+B3400;2018;Agglomération de Montpellier;Périphérie;Appartement;5. Après 2005;1. Moins de 1 an;;9,8;10,8;12,6;14,2;14,6;11,8;440;490;610;703;845;626;53;380;;Estimation directe
+B3400;2018;Agglomération de Montpellier;Périphérie;Appartement;5. Après 2005;2. 1 an et plus;;9;10,6;11,8;13,3;15,2;11,3;436;533;617;720;806;633;56;716;;Estimation directe
