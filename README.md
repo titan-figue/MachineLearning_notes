@@ -1,1 +1,1 @@
-# MachineLearningbyMiximum
+# MachineLearning
